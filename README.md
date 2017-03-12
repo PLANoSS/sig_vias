@@ -13,4 +13,6 @@ En este **[enlace](http://www.qgis.org/es/site/forusers/download.html)** usted p
 * 3 [Uniones y relaciones](http://prezi.com/9ytrrdx6ox4i/?utm_campaign=share&utm_medium=copy&rc=ex0share).
 * 4 [Sistemas de coordenadas](http://prezi.com/dly7amsks1kc/?utm_campaign=share&utm_medium=copy&rc=ex0share).
 
+Las presentaciones de la primera semana en formato PDF las puede descargar desde **[aquí](https://dl.dropboxusercontent.com/u/44902322/SIG/presentaciones%20primera%20semana.rar)**
+
 Para ingresar al examen de la primera parte de click **[aquí](https://goo.gl/forms/WvLVWAGbo8zvBKlA2)**.
