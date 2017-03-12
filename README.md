@@ -1,5 +1,7 @@
 # DATOS DEL CURSO SISTEMAS DE INFORMACIÓN GEOGRÁFICA
 
+Puede encontrar los ejercicios del curso dando click **[aquí](https://dl.dropboxusercontent.com/u/44902322/M%C3%93DULO.pdf)**
+
 Los datos del curso SIG los puede descargar dando click **[aquí](https://dl.dropboxusercontent.com/u/44902322/archivos%20curso.rar)**.
 
 En este **[enlace](http://www.qgis.org/es/site/forusers/download.html)** usted puede encontrar los instaladores del programa QGIS.
