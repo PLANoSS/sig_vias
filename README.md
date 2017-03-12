@@ -10,3 +10,5 @@ En este **[enlace](http://www.qgis.org/es/site/forusers/download.html)** usted p
 * 2 [Introducción a QGIS](http://prezi.com/g6tgw3mpbecg/?utm_campaign=share&utm_medium=copy&rc=ex0share).
 * 3 [Uniones y relaciones](http://prezi.com/9ytrrdx6ox4i/?utm_campaign=share&utm_medium=copy&rc=ex0share).
 * 4 [Sistemas de coordenadas](http://prezi.com/dly7amsks1kc/?utm_campaign=share&utm_medium=copy&rc=ex0share).
+
+Para ingresar al examen de la primera parte de click **[aquí](https://goo.gl/forms/WvLVWAGbo8zvBKlA2)**.
