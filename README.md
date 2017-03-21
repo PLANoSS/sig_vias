@@ -1,7 +1,7 @@
 # DATOS DEL CURSO SISTEMAS DE INFORMACIÓN GEOGRÁFICA
 
 ## Trabajo de la primera semana
-Cargue el trabajo de la primera semana [aquí](https://www.dropbox.com/request/ut2qVNfNnLnT21kvGfiX)
+Cargue el trabajo de la primera semana **[aquí](https://www.dropbox.com/request/ut2qVNfNnLnT21kvGfiX)**. La fecha límite para enviar los datos es el **23 de Marzo**
 
 ## Datos para ejercicios
 Puede encontrar los ejercicios del curso dando click **[aquí](https://dl.dropboxusercontent.com/u/44902322/M%C3%93DULO.pdf)**
