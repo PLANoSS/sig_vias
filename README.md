@@ -45,8 +45,8 @@ Para ingresar al examen de la primera parte de click **[aquí](https://goo.gl/fo
 * 2 [Topología y autoensamblado](https://drive.google.com/open?id=0BzlSI5GKglNmNU1QYUFPNFMzQTA)
 * 3 [Consultas espaciales](https://www.dropbox.com/s/utg821hf871s346/EJERCICIO5.rar?dl=0)
 * 4 [Geoprocesamiento](https://drive.google.com/open?id=0BzlSI5GKglNmMGlmMkdMOHh2aDg)
-* 1 [Herramientas avanzadas de simbología](https://drive.google.com/open?id=0BzlSI5GKglNmeGZvS0xsWS00ZU0)
-* 2 [Herramientas avanzadas de etiquetado](https://drive.google.com/open?id=0BzlSI5GKglNmY3plRURETUVsdDg)
+* 5 [Herramientas avanzadas de simbología](https://drive.google.com/open?id=0BzlSI5GKglNmeGZvS0xsWS00ZU0)
+* 6 [Herramientas avanzadas de etiquetado](https://drive.google.com/open?id=0BzlSI5GKglNmY3plRURETUVsdDg)
 
 
 
