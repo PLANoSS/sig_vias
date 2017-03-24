@@ -1,4 +1,6 @@
-# DATOS DEL CURSO SISTEMAS DE INFORMACIÓN GEOGRÁFICA
+# CURSO SISTEMAS DE INFORMACIÓN GEOGRÁFICA
+
+# PARTE I
 
 ## Trabajo de la primera semana
 Cargue el trabajo de la primera semana **[aquí](https://www.dropbox.com/request/ut2qVNfNnLnT21kvGfiX)**. La fecha límite para enviar los datos es el **23 de Marzo**
@@ -21,7 +23,11 @@ Las presentaciones de la primera semana en formato PDF las puede descargar desde
 
 Para ingresar al examen de la primera parte de click **[aquí](https://goo.gl/forms/WvLVWAGbo8zvBKlA2)**.
 
-# CURSO SISTEMAS DE INFORMACIÓN GEOGRÁFICA II
+
+
+
+
+# PARTE II
 
 * [Resultados trabajo SIG I](https://planoss.github.io/valor/#7/-2.499/-79.866)
 * [Más datos para ejercicios](https://www.dropbox.com/s/jirljq5q1d37573/archivos%20curso.rar?dl=0)
