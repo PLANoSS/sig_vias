@@ -58,4 +58,4 @@ Para ingresar al examen de la primera parte de click **[aquí](https://goo.gl/fo
 ## TRABAJO FINAL
 
 ## EVALUACIONES
-* [Segunda evaluación](https://goo.gl/forms/PxeGmuhGFp6rrqR)
+* [Segunda evaluación](https://goo.gl/forms/P7lxNvad1uyxr68I3)
