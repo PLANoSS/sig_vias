@@ -57,5 +57,27 @@ Para ingresar al examen de la primera parte de click **[aquí](https://goo.gl/fo
 
 ## TRABAJO FINAL
 
+El GAD parroquial de Vilcabamba está planificando la implementación de una zona industrial dentro de la parroquia. Los sitios candidatos deben cumplir con los siguientes criterios:
+
+1. Que el suelo sea improductivo o esté cubierto por vegetación arbustiva o herbácea (capa ua_suelo_vilca2, campo uas)
+
+2. Que esté a más de 3 km del barrio Vilcabamba (capa barrios_vilcabamba, campo SECTOR). Recuerde que una condición es que esté dentro de la parroquia Vilcabamba, y hacer un buffer sobre el barrio Vilcabamba generará un polígono que excederá el límite parroquial.
+
+3. Que esté fuera del Parque Nacional Podocarpus (capa PARQUE NACIONAL PODOCARPUS).
+
+4. Que esté dentro de un rango de 1 km de vías lastradas o pavimentadas(capa tr_carret_vilcabamba, campo FIRME, lastradas: LA, pavimentadas: CA ó RA)
+
+5. Que la superficie sea de al menos 10 ha.
+
+Envíe los siguientes resultados a través del EVA, poniendo su Apellido_Nombre
+
+1. Diagrama de flujo del proceso
+
+2. Captura de pantalla de resultado final (polígonos candidatos)
+
+3. Documento de texto con el número de polígonos candidatos.
+
+[Subir el documento en el siguiente link poniendo Apellido_Nombre](https://www.dropbox.com/request/EuafZPdEX60satEmQU59)
+
 ## EVALUACIONES
 * [Segunda evaluación]
