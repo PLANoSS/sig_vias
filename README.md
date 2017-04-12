@@ -6,9 +6,9 @@
 Cargue el trabajo de la primera semana **[aquí](https://www.dropbox.com/request/ut2qVNfNnLnT21kvGfiX)**. La fecha límite para enviar los datos es el **23 de Marzo**
 
 ## Datos para ejercicios
-Puede encontrar los ejercicios del curso dando click **[aquí](https://dl.dropboxusercontent.com/u/44902322/M%C3%93DULO.pdf)**
+Puede encontrar los ejercicios del curso dando click **[aquí](https://dl.dropboxusercontent.com/u/44902322/M%C3%93DULO.p)**
 
-Los datos del curso SIG los puede descargar dando click **[aquí](https://dl.dropboxusercontent.com/u/44902322/archivos%20curso.rar)**.
+Los datos del curso SIG los puede descargar dando click **[aquí](https://www.dropbox.com/s/jirljq5q1d37573/archivos%20curso.rar?dl=0)**.
 
 En este **[enlace](http://www.qgis.org/es/site/forusers/download.html)** usted puede encontrar los instaladores del programa QGIS.
 
