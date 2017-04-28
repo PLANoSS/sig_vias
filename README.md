@@ -26,7 +26,7 @@
 
 ## Información adicional
 
-* 1 [Link para descargar el programa](http://qgis.org/downloads/QGIS-OSGeo4W-2.14.14-1-Setup-x86.exe)
-* 2 [QGIS Training Manual](https://www.dropbox.com/s/kbm75k8lup3pwa7/QGIS-2.8-QGISTrainingManual-es%20-%20copia.pdf?dl=0)
-* 3 [Datos para ejercicios de QGIS Training Manual](https://www.dropbox.com/s/xipps9frd7s5o2q/training_manual_exercise_data.zip?dl=0)
-* 4 [Libro de Víctor Olaya: Sistemas de Información Geográfica](http://volaya.github.io/libro-sig/)
+* [Link para descargar el programa](http://qgis.org/downloads/QGIS-OSGeo4W-2.14.14-1-Setup-x86.exe)
+* [QGIS Training Manual](https://www.dropbox.com/s/kbm75k8lup3pwa7/QGIS-2.8-QGISTrainingManual-es%20-%20copia.pdf?dl=0)
+* [Datos para ejercicios de QGIS Training Manual](https://www.dropbox.com/s/xipps9frd7s5o2q/training_manual_exercise_data.zip?dl=0)
+* [Libro de Víctor Olaya: Sistemas de Información Geográfica](http://volaya.github.io/libro-sig/)
