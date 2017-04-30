@@ -24,9 +24,16 @@
 * 9 [Trabajo con tablas](https://www.dropbox.com/s/rh4d7evgo6b1p15/EJERCICIO%201.9.rar?dl=0)
 * 10 [Presentación de datos](https://www.dropbox.com/s/6smov1d0arg6f9b/EJERCICIO%201.10.rar?dl=0)
 
+## Evaluación SIG1
+
+* [Evaluación módulo 1] (https://goo.gl/forms/ei8NA2VfCC7OnppT2)
+
 ## Información adicional
 
 * [Link para descargar el programa](http://qgis.org/downloads/QGIS-OSGeo4W-2.14.14-1-Setup-x86.exe)
 * [QGIS Training Manual](https://www.dropbox.com/s/kbm75k8lup3pwa7/QGIS-2.8-QGISTrainingManual-es%20-%20copia.pdf?dl=0)
 * [Datos para ejercicios de QGIS Training Manual](https://www.dropbox.com/s/xipps9frd7s5o2q/training_manual_exercise_data.zip?dl=0)
 * [Libro de Víctor Olaya: Sistemas de Información Geográfica](http://volaya.github.io/libro-sig/)
+
+## Información adicional
+* [Evaluación módulo 1] (https://goo.gl/forms/ei8NA2VfCC7OnppT2)
