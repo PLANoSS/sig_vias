@@ -10,7 +10,7 @@
 * 4 [Fundamentos geodésicos y cartográficos](http://prezi.com/dly7amsks1kc/?utm_campaign=share&utm_medium=copy&rc=ex0share)
 * 5 [Técnicas para la obtención de información geográfica](http://prezi.com/xriqu35ms4_f/?utm_campaign=share&utm_medium=copy&rc=ex0share)
 * 6 [Uniones y relaciones](http://prezi.com/9ytrrdx6ox4i/?utm_campaign=share&utm_medium=copy&rc=ex0share).
-* 7 [Aspectos a considerar para la parte 2 del trabajo](http://prezi.com/ldksynpm_gnj/?utm_campaign=share&utm_medium=copy&rc=ex0share)
+
 
 ## Ejercicios
 
@@ -28,6 +28,25 @@
 ## Evaluación SIG1
 
 * [Evaluación módulo 1](https://goo.gl/forms/ei8NA2VfCC7OnppT2)
+## Trabajo
+### Parte 1
+La parte 1 del trabajo consiste en generar un mapa a partir de un archivo analógico, para ello debe realizar los siguientes pasos:
+1. Buscar un plano analógico (en papel) de su ciudad.
+2. Georreferenciar el plano
+3. Pasar esa información a formato vectorial (crear shape, crear campos y editar)
+4. Aplicar simbología y etiquetado si hiciera falta
+5. Realizar una composición final de mapa.
+
+Como entregables usted deberá entregar en un solo archivo comprimido con su Apellido_Nombre.rar, los siguientes elementos:
+1. Imagen sin georreferenciar
+2. Imagen georreferenciada
+3. Capas creadas y editadas
+4. Mapa final en jpg ó pdf
+
+### Parte 2.
+Deberá realizar un estudio de mercado de valores de suelo (30 predios sin construcción), en el que recopilará la información que se adjunta en la siguiente presentación
+* 7 [Aspectos a considerar para la parte 2 del trabajo](http://prezi.com/ldksynpm_gnj/?utm_campaign=share&utm_medium=copy&rc=ex0share)
+Deberá incorporarse el shape generado en la carpeta comprimida de la primera parte y enviarse al link dando click [aquí](https://www.dropbox.com/request/GDW66VDzS0IMerfO97Ct)
 
 ## Información adicional
 
