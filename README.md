@@ -34,6 +34,3 @@
 * [QGIS Training Manual](https://www.dropbox.com/s/kbm75k8lup3pwa7/QGIS-2.8-QGISTrainingManual-es%20-%20copia.pdf?dl=0)
 * [Datos para ejercicios de QGIS Training Manual](https://www.dropbox.com/s/xipps9frd7s5o2q/training_manual_exercise_data.zip?dl=0)
 * [Libro de Víctor Olaya: Sistemas de Información Geográfica](http://volaya.github.io/libro-sig/)
-
-## Información adicional
-* [Evaluación módulo 1] (https://goo.gl/forms/ei8NA2VfCC7OnppT2)
