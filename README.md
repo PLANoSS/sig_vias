@@ -26,7 +26,7 @@
 
 ## Evaluación SIG1
 
-* [Evaluación módulo 1] (https://goo.gl/forms/ei8NA2VfCC7OnppT2)
+* [Evaluación módulo 1](https://goo.gl/forms/ei8NA2VfCC7OnppT2)
 
 ## Información adicional
 
