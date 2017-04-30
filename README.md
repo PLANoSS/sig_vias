@@ -28,6 +28,7 @@
 ## Evaluación SIG1
 
 * [Evaluación módulo 1](https://goo.gl/forms/ei8NA2VfCC7OnppT2)
+
 ## Trabajo
 ### Parte 1
 La parte 1 del trabajo consiste en generar un mapa a partir de un archivo analógico, para ello debe realizar los siguientes pasos:
@@ -46,6 +47,8 @@ Como entregables usted deberá entregar en un solo archivo comprimido con su Ape
 ### Parte 2.
 Deberá realizar un estudio de mercado de valores de suelo (30 predios sin construcción), en el que recopilará la información que se adjunta en la siguiente presentación
 * 7 [Aspectos a considerar para la parte 2 del trabajo](http://prezi.com/ldksynpm_gnj/?utm_campaign=share&utm_medium=copy&rc=ex0share)
+
+
 Deberá incorporarse el shape generado en la carpeta comprimida de la primera parte y enviarse al link dando click [aquí](https://www.dropbox.com/request/GDW66VDzS0IMerfO97Ct)
 
 ## Información adicional
