@@ -10,6 +10,7 @@
 * 4 [Fundamentos geodésicos y cartográficos](http://prezi.com/dly7amsks1kc/?utm_campaign=share&utm_medium=copy&rc=ex0share)
 * 5 [Técnicas para la obtención de información geográfica](http://prezi.com/xriqu35ms4_f/?utm_campaign=share&utm_medium=copy&rc=ex0share)
 * 6 [Uniones y relaciones](http://prezi.com/9ytrrdx6ox4i/?utm_campaign=share&utm_medium=copy&rc=ex0share).
+* 7 [Aspectos a considerar para la parte 2 del trabajo](http://prezi.com/ldksynpm_gnj/?utm_campaign=share&utm_medium=copy&rc=ex0share)
 
 ## Ejercicios
 
