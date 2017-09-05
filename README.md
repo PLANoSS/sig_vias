@@ -19,17 +19,17 @@
 
 ## Datos para ejercicios
 
-* 1 [Introducción a los SIG]()
-* 2 [Visualización y manejo básico de información geográfica]()
-* 3 [Sistemas de referencia y georreferenciación]()
+* 1 [Introducción a los SIG](https://drive.google.com/open?id=0BzlSI5GKglNmbUd6RWh4N2l6TVE)
+* 2 [Visualización y manejo básico de información geográfica](https://drive.google.com/open?id=0BzlSI5GKglNmRmRLZ29hc0tQLU0)
+* 3 [Sistemas de referencia y georreferenciación](https://drive.google.com/open?id=0BzlSI5GKglNmRkZRNGVXZ2gwT3M)
 * 4 [Simbología y etiquetado](https://drive.google.com/open?id=0BzlSI5GKglNmemNxdjZsdVBhMkE)
 * 5 [Fuentes de información geográfica]()
-* 6 [Trabajo con datos espaciales]()
-* 7 [Edición de datos]()
+* 6 [Trabajo con datos espaciales](https://drive.google.com/open?id=0BzlSI5GKglNmOHlDbE95anZzcDA)
+* 7 [Edición de datos](https://drive.google.com/open?id=0BzlSI5GKglNmOXdYQ0Y5eFZYTlk)
 * 8 [Trabajo con tablas](https://drive.google.com/open?id=0BzlSI5GKglNmV2NwSTJKRVdKY2M)
 * 9 [Topología y auto ensamblado](https://drive.google.com/open?id=0BzlSI5GKglNmNEp4ZVp6ZEtSRmM)
-* 10 [Presentación de datos]()
-* 11 [Consultas espaciales y de bases de datos]()
+* 10 [Presentación de datos](https://drive.google.com/open?id=0BzlSI5GKglNmc0VlMHpsZEhTeDg)
+* 11 [Consultas espaciales y de bases de datos](https://drive.google.com/open?id=0BzlSI5GKglNmWlhYRE9QdE1hUUk)
 * 12 [Geoprocesamiento](https://drive.google.com/open?id=0BzlSI5GKglNmWno3Qy00b09xMHM)
 
 
