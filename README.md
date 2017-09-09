@@ -36,3 +36,4 @@
 ## Información adicional
 
 * [Libro de Víctor Olaya: Sistemas de Información Geográfica](http://volaya.github.io/libro-sig/)
+* [datos ejercicios adicionales] (https://www.dropbox.com/s/wz27vf344ghuhli/BASE%20VILCABAMBA.rar?dl=0)
