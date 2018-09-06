@@ -25,7 +25,7 @@
 * 4 [Simbología y etiquetado](https://drive.google.com/open?id=0BzlSI5GKglNmemNxdjZsdVBhMkE)
 * 5 [Fuentes de información geográfica](https://www.dropbox.com/s/24p38ie6mmzyp2j/datos%20campo.csv?dl=0)
   * 5.1 [Configuración Kobo toolbox](https://drive.google.com/open?id=18H0dSOHPJIHow1WDNFRHaCGrzQZYI1Sq)
-  * 5.2 [Datos levantados en campo](https://drive.google.com/open?id=15ToFGyUuwL0ECBY_PdP6A6kB2UwYRa1i)
+  * 5.2 [Datos levantados en campo](https://drive.google.com/open?id=1CjRa_8tBU6aMSJk30Cnt6gaO-DHszXGc)
 * 6 [Trabajo con datos espaciales](https://drive.google.com/open?id=0BzlSI5GKglNmOHlDbE95anZzcDA)
 * 7 [Edición de datos](https://drive.google.com/open?id=0BzlSI5GKglNmOXdYQ0Y5eFZYTlk)
 * 8 [Trabajo con tablas](https://drive.google.com/open?id=0BzlSI5GKglNmV2NwSTJKRVdKY2M)
