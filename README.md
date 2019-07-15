@@ -1,6 +1,5 @@
 # CURSO SISTEMAS DE INFORMACIÓN GEOGRÁFICA
 
-# NIVEL BÁSICO
 
 ## Presentaciones
 
@@ -34,8 +33,9 @@
 * 11 [Consultas espaciales y de bases de datos](https://drive.google.com/open?id=0BzlSI5GKglNmWlhYRE9QdE1hUUk)
 * 12 [Geoprocesamiento](https://drive.google.com/open?id=0BzlSI5GKglNmWno3Qy00b09xMHM)
 
-
 ## Información adicional
 
 * [Libro de Víctor Olaya: Sistemas de Información Geográfica](http://volaya.github.io/libro-sig/)
 * [datos ejercicios adicionales](https://www.dropbox.com/s/wz27vf344ghuhli/BASE%20VILCABAMBA.rar?dl=0)
+
+## Tareas
