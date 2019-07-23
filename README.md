@@ -6,16 +6,16 @@
 * 1 [Introducción a los SIG](https://prezi.com/payiv3ebt3bs/?token=2e94d64d14302f3ef0147ffe84f19c24ffab38497c9af5870a3fa20c84b66742&utm_campaign=share&utm_medium=copy&rc=ex0share)
 * 2 [Visualización y manejo básico de información geográfica](https://drive.google.com/open?id=1-XcD5dyFU0kCsr6axfNzVqi-osypS6Y1)
 * 3 [Sistemas de referencia y georreferenciación](https://prezi.com/dly7amsks1kc/?token=d01a1ab5f9ff43f3be9b6b3054866675f73dc23e2090e26ee16da94a42dec4fa&utm_campaign=share&utm_medium=copy&rc=ex0share)
-* 4 [Simbología y etiquetado](http://prezi.com/mju2roq_ebtw/?utm_campaign=share&utm_medium=copy&rc=ex0share)
+* 4 [Simbología y etiquetado](https://prezi.com/mju2roq_ebtw/?token=78f3afa220d555cfd9a2fbdfdda7ee1fa38190c9375d58da001e418bbef87e51&utm_campaign=share&utm_medium=copy&rc=ex0share)
 * 5 [Fuentes de información geográfica](http://sni.gob.ec/inicio)
 * 6 [Trabajo con datos espaciales]()
 * 7 [Edición de datos]()
-* 8 [Trabajo con tablas](http://prezi.com/9ytrrdx6ox4i/?utm_campaign=share&utm_medium=copy&rc=ex0share)
+* 8 [Trabajo con tablas](https://prezi.com/9ytrrdx6ox4i/?token=34c107d97646c166f5f84faa6c127853d1e43f90e7a4f414e5ad14e16b7b2d7e&utm_campaign=share&utm_medium=copy&rc=ex0share)
 * 9 [Topología y auto ensamblado](https://prezi.com/lm7_lmxoy1lh/?token=915972b5d68a00e61f929c54186eee4962ee79a4866a0ee0568bede44efa9077&utm_campaign=share&utm_medium=copy&rc=ex0share)
 * 10 [Presentación de datos]()
 * 11 [Consultas de base de datos](https://prezi.com/colue-i3akcf/?token=9f2e8482c78c99bf5b3bf38f19af73b35c4c0447b42fe9f4355bf8446f750c5d&utm_campaign=share&utm_medium=copy&rc=ex0share)
-* 12 [Consultas espaciales](http://prezi.com/0ilmzno_3yv5/?utm_campaign=share&utm_medium=copy&rc=ex0share)
-* 12 [Geoprocesamiento](http://prezi.com/0ilmzno_3yv5/?utm_campaign=share&utm_medium=copy&rc=ex0share)
+* 12 [Consultas espaciales](https://prezi.com/0ilmzno_3yv5/?token=7b19828a3163f8f346387d09bc7fe8c2e93d5bccbca7cedc7e9737d8518dbc00&utm_campaign=share&utm_medium=copy&rc=ex0share)
+* 12 [Geoprocesamiento](https://prezi.com/0ilmzno_3yv5/?token=7b19828a3163f8f346387d09bc7fe8c2e93d5bccbca7cedc7e9737d8518dbc00&utm_campaign=share&utm_medium=copy&rc=ex0share)
 
 ## Apuntes
 
