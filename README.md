@@ -60,7 +60,8 @@
 * 8 [Trabajo con tablas](https://drive.google.com/open?id=0BzlSI5GKglNmV2NwSTJKRVdKY2M)
 * 9 [Topología y auto ensamblado](https://drive.google.com/open?id=0BzlSI5GKglNmNEp4ZVp6ZEtSRmM)
 * 10 [Presentación de datos](https://drive.google.com/open?id=0BzlSI5GKglNmc0VlMHpsZEhTeDg)
-* 11 [Consultas espaciales y de bases de datos](https://drive.google.com/open?id=0BzlSI5GKglNmWlhYRE9QdE1hUUk)
+* 11.1 [Consultas de bases de datos](https://drive.google.com/file/d/0BzlSI5GKglNmT2FVUUo1THJTYXc/view)
+* 11.2 [Consultas espaciales y de bases de datos](https://drive.google.com/open?id=0BzlSI5GKglNmWlhYRE9QdE1hUUk)
 * 12 [Geoprocesamiento](https://drive.google.com/open?id=0BzlSI5GKglNmWno3Qy00b09xMHM)
 
 ## Información adicional
