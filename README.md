@@ -72,3 +72,7 @@
 * [datos para multicriterio](https://drive.google.com/open?id=1EVcDUR9NEasLfro3qcvrF1N5bwtjP-SQ)
 ## Evaluaciones
 * [Evaluación 1](https://forms.gle/j6eFjNzJj183k66S7)
+* [Evaluación 2. Teoría](https://forms.gle/5quX3Gn7qHH85zuM7)
+* [Evaluación 2. Práctica](https://forms.gle/eTAWZXD7tJUACoA79)
+## Calificaciones
+* [Calificaciones](https://datastudio.google.com/u/0/reporting/14HL0hiPAGp0v3rRExSDGPhTWXSjqhXUw/page/Ddkx)
